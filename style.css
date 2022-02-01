@@ -1,0 +1,14 @@
+table.C {
+    border: red 1px solid;
+}
+
+td.A {
+    border: blue 3px solid;
+}
+
+td.B {
+    border: greenyellow 2px solid;
+    text-align: center;
+    width: 250px;
+
+}
